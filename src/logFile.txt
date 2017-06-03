@@ -1,0 +1,13 @@
+{"responseTime":"108 ms","url":"/editMember/1","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 12:49:14 PM"}
+{"responseTime":"0 ms","url":"/viewAll","Request Method":"DELETE","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 12:51:30 PM"}
+{"responseTime":"3 ms","url":"/viewAll","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 12:51:34 PM"}
+{"responseTime":"180 ms","url":"/editMember/4","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 12:52:24 PM"}
+{"responseTime":"62 ms","url":"/addMember","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 12:52:59 PM"}
+{"responseTime":"105 ms","url":"/deleteMember/4","Request Method":"DELETE","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 12:57:47 PM"}
+{"level":"error","message":"Error Connecting to Mysql DB","timestamp":"6/3/2017, 1:11:33 PM"}
+{"level":"error","message":"Error Connecting to Mysql DB","timestamp":"6/3/2017, 1:12:09 PM"}
+{"responseTime":"119 ms","url":"/addMember","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 1:13:33 PM"}
+{"responseTime":"44 ms","url":"/addMember","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 1:13:58 PM"}
+{"responseTime":"61 ms","url":"/editMember/9","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 1:14:24 PM"}
+{"responseTime":"2 ms","url":"/deleteMember/2","Request Method":"DELETE","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 1:14:47 PM"}
+{"responseTime":"2 ms","url":"/viewAll","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 58.0.3029 / Windows 10 0.0.0","level":"info","message":"","timestamp":"6/3/2017, 1:15:12 PM"}
