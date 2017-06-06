@@ -1,3 +1,4 @@
+//log config file
 import winston from 'winston';
 
 let tsFormat = function(){ return new Date().toLocaleString()};
