@@ -1,3 +1,4 @@
+//entry point for the app
 import express from 'express';
 import config from './util/config';
 import appRouter from './routes';
