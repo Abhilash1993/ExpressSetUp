@@ -8,8 +8,8 @@ Rest API's with Winston logger implemented.
 3. npm start
 4. access Rest APi using the follow url's using POSTMAN
 
-http://localhost:8123/viewAll - GET - to get all the user details
-http://localhost:8123/deleteMember/1 - DELETE - to delete a user with user ID '1'
-http://localhost:8123/editMember/1 - POST - to update user details  with user ID '1' (user details as part of request body)
-http://localhost:8123/addMember - POST - to add a new user (user details as part of request body , no need os user ID as user ID will be auto generated)
+i. http://localhost:8123/viewAll - GET - to get all the user details
+ii. http://localhost:8123/deleteMember/1 - DELETE - to delete a user with user ID '1'
+iii. http://localhost:8123/editMember/1 - POST - to update user details  with user ID '1' (user details as part of request body)
+iv. http://localhost:8123/addMember - POST - to add a new user (user details as part of request body , no need os user ID as user ID will be auto generated)
 
