@@ -22,3 +22,6 @@ last_name varchar(30),
 phone varchar(30),
 email varchar(30),
 role varchar(8)
+
+
+access the link https://github.com/Neera-Dixit/express-mysql-restapi/blob/master/src/logFile.txt to view the sample logs generated
