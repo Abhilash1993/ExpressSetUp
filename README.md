@@ -14,3 +14,11 @@ Rest API's with Winston logger implemented.
 3. http://localhost:8123/editMember/1 - POST - to update user details  with user ID '1' (user details as part of request body)
 4. http://localhost:8123/addMember - POST - to add a new user (user details as part of request body , no need os user ID as user ID will be auto generated)
 
+can you the following schema to create table
+
+id int,
+first_name varchar(60),
+last_name varchar(30),
+phone varchar(30),
+email varchar(30),
+role varchar(8)
