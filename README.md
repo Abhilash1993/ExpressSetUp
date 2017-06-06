@@ -16,6 +16,7 @@ Rest API's with Winston logger implemented.
 
 can you the following schema to create table
 
+# Table schema
 id int,
 first_name varchar(60),
 last_name varchar(30),
