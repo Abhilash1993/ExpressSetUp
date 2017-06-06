@@ -1,3 +1,5 @@
+//db config file
+
 import mysql from 'mysql';
 
 let connectionPool  =    mysql.createPool({
