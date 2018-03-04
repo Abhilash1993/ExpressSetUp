@@ -6,8 +6,8 @@ let connectionPool  =    mysql.createPool({
     connectionLimit : 100,
     host     : 'localhost',
     user     : 'root',
-    password : 'abcd',
-    database : 'team-member',
+    password : 'root',
+    database : 'databasename',
     debug    :  false
 });
 
